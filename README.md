@@ -13,7 +13,7 @@
 4. Create a new env using this command ```mkvirtualenv "name_env" -p python3 ``` change *"name_env"* for your choice name.
 5. Enter inside env: ```workon "name_env" ```.
 6. Install dependences: ```pip -r requirements.txt```.
-7. Clone this respository using ``` git clone ``` command.
+7. Clone this respository using ``` git clone https://github.com/ximenesfel/action_recognition_openpose.git ``` command.
 
 # Usage
 
