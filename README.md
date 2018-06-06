@@ -7,13 +7,13 @@
 
 # Installation 
 
-- [] Install openpose using this [installation procedure](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md).
-- [] Install *virtualenv* using step #3 from this [post](https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/).
-- [] Download *requirement.txt file* in this [link](https://www.dropbox.com/s/50hgmrnyz7shgpy/requirements.txt?dl=0).
-- [] Create a new env using this command ```mkvirtualenv "name_env" -p python3 ``` change *"name_env"* for your choice name.
-- [] Enter inside env: ```workon "name_env" ```.
-- [] Install dependences: ```pip -r requirements.txt```.
-- [] Clone this respository using ``` git clone ``` command.
+1. Install openpose using this [installation procedure](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md).
+2. Install *virtualenv* using step #3 from this [post](https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/).
+3. Download *requirement.txt file* in this [link](https://www.dropbox.com/s/50hgmrnyz7shgpy/requirements.txt?dl=0).
+4. Create a new env using this command ```mkvirtualenv "name_env" -p python3 ``` change *"name_env"* for your choice name.
+5. Enter inside env: ```workon "name_env" ```.
+6. Install dependences: ```pip -r requirements.txt```.
+7. Clone this respository using ``` git clone ``` command.
 
 # Usage
 
