@@ -17,14 +17,18 @@
 
 # Usage
 
-### To write json files from videos
+### To write json files from videos (Recommended: GPU)
 
 - Open `write_json_from_video.py` and fill this variables: `path_videos` (path to your videos folder) and `path_output_data` (path where you like to save json data). Please insert all path. Ex: `/home/"user"/Desktop/....`.
 - Run ```python write_json_from_videos.py```.
 
 
-### Obtain database from json files 
+### Create database from json files (Don't need GPU)
 
 - Open `generate_data.py` and fill the variable `path_data` (path where you save json files). Please insert all path. Ex: `/home/"user"/Desktop/....`.
 - Run ```python generate_data.py```.
 - The file `database.dat` will be saved in your current directory with all data from json's files.
+
+### Read data form database (Don't need GPU)
+- Open `read_data.py` and fill the variable `data_path` (path where you save database file).
+- Run `python read_data.py`.
