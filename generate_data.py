@@ -14,10 +14,6 @@ pik = "database.dat"
 with open(pik, "wb") as f:
     pickle.dump(action_list, f)
 
-with open(pik, "rb") as f1:
-    data = pickle.load(f1)
-
-print(data[0].action_data[0]['keypoint']['left_knee']['coordinate_x'])
 
 
 
