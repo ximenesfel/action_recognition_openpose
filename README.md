@@ -23,12 +23,12 @@
 - Run ```python write_json_from_videos.py```.
 
 
-### Create database from json files (Don't need GPU)
+### Create database from json files (Recommended: GPU or CPU)
 
 - Open `generate_data.py` and fill the variable `path_data` (path where you save json files). Please insert all path. Ex: `/home/"user"/Desktop/....`.
 - Run ```python generate_data.py```.
 - The file `database.dat` will be saved in your current directory with all data from json's files.
 
-### Read data form database (Don't need GPU)
+### Read data form database (Recommended: GPU or CPU)
 - Open `read_data.py` and fill the variable `data_path` (path where you save database file).
 - Run `python read_data.py`.
