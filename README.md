@@ -1,9 +1,18 @@
-# Configuration
+# Project
+
+This project is can be used to obtain skeleton-data from [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) application. The following features are available:
+
+- Write json from videos
+- Create database from json files
+- Read data from database
+
+# Hadware Configuration
 
 - **OS:** Linux [Ubuntu 16.04 LTS - 64 bits]
 - **GPU:** NVIDIA GeForce GTX 1060 (6GB)
 - **Memory:** 16 GB
 - **Processor:** Intel Core i7 (7th Gen)
+
 
 # Installation 
 
