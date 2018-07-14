@@ -1,6 +1,6 @@
 # Project
 
-This project is can be used to obtain skeleton-data from [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) application. The following features are available:
+This project can be used to obtain skeleton-data from [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) application. The following features are available:
 
 - Write json from videos
 - Create database from json files
