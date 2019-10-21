@@ -124,5 +124,5 @@ tf2-py==0.5.17
 tf2-ros==0.5.17
 topic-tools==1.12.13
 urllib3==1.22
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 xacro==1.11.3
