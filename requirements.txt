@@ -1,6 +1,6 @@
 actionlib==1.11.13
 angles==1.9.11
-bleach==1.5.0
+bleach==3.1.2
 bondpy==1.8.1
 camera-calibration==1.12.23
 camera-calibration-parsers==1.11.13
