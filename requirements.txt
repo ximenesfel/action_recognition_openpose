@@ -123,6 +123,6 @@ tf2-kdl==0.5.17
 tf2-py==0.5.17
 tf2-ros==0.5.17
 topic-tools==1.12.13
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.14.1
 xacro==1.11.3
