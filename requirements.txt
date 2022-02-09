@@ -114,7 +114,7 @@ six==1.11.0
 smach==2.0.1
 smach-ros==2.0.1
 smclib==1.8.1
-tensorflow-gpu==1.4.0
+tensorflow-gpu==2.5.3
 tensorflow-tensorboard==0.4.0
 tf==1.11.9
 tf-conversions==1.11.9
