@@ -36,7 +36,7 @@ matplotlib==2.2.2
 mavros==0.25.1
 message-filters==1.12.13
 networkx==2.1
-numpy==1.14.3
+numpy==1.22.0
 Pillow==5.1.0
 pluginlib==1.11.3
 progressbar2==3.37.1
