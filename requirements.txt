@@ -40,7 +40,7 @@ numpy==1.14.3
 Pillow==5.1.0
 pluginlib==1.11.3
 progressbar2==3.37.1
-protobuf==3.5.2.post1
+protobuf==3.18.3
 pyparsing==2.2.0
 python-dateutil==2.7.3
 python-qt-binding==0.3.3
