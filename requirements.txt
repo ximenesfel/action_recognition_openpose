@@ -5,7 +5,7 @@ bondpy==1.8.1
 camera-calibration==1.12.23
 camera-calibration-parsers==1.11.13
 catkin==0.7.11
-certifi==2018.4.16
+certifi==2022.12.7
 chardet==3.0.4
 cv-bridge==1.12.8
 cycler==0.10.0
